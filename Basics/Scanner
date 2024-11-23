@@ -1,0 +1,13 @@
+import java.util.Scanner;
+public class Scanner {
+public static void main(String[] args)
+    {
+        Scanner s = new Scanner(System.in);
+        String name = s.nextLine();
+        char gender = s.next().charAt(0);
+        int age = sc.nextInt();
+        System.out.println("name: " + name);
+        System.out.println("gender: " + gender);
+        System.out.println("age: " + age);
+    }
+}
