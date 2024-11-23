@@ -1,0 +1,9 @@
+public class datatype {  
+public static void main(String[] args)   
+{  
+String name="Rishvedha";
+int num=11;
+System.out.println(name);
+System.out.println(num);
+}  
+}  
