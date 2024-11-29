@@ -1,0 +1,16 @@
+public class ifelse1 {
+    public static void main(String[] args)
+    {
+    System.out.println("if else poda porom");
+    System.out.println("   ");
+
+    boolean rain=true;
+    if(rain){
+        System.out.println("take an umbrella");
+    }
+    else{
+        System.out.println("no need of umbrella");
+    }
+
+    }
+}
