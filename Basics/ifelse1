@@ -9,7 +9,7 @@ public class ifelse1 {
         System.out.println("take an umbrella");
     }
     else{
-        System.out.println("no need of umbrella");
+        System.out.println("no need of umbrella"); 
     }
 System.out.println(7>5);
 System.out.println(7<5);
