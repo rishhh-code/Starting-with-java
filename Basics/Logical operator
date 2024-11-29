@@ -1,0 +1,15 @@
+public class LogicalOperatorsExample {
+    public static void main(String[] args) {
+        boolean a = true;
+        boolean b = false;
+     
+        System.out.println("a && b = " + (a && b)); 
+        System.out.println("a && true = " + (a && true));
+      
+        System.out.println("a || b = " + (a || b)); 
+        System.out.println("b || false = " + (b || false)); 
+      
+        System.out.println("!a = " + (!a));
+        System.out.println("!b = " + (!b)); 
+    }
+}
